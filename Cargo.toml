@@ -1,0 +1,9 @@
+[package]
+name = "bdk-wallet-demo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bitcoin = "0.30.0"
+bdk = "0.28.2"
+anyhow = "1.0"
